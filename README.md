@@ -1,2 +1,2 @@
-# YAmir-Website
+# yamir-website
 Portfolio Website
